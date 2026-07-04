@@ -10,12 +10,12 @@
 
 ## 🚀 About me
 
-- 🔧 I build systems **end-to-end**: embedded firmware → APIs → Kubernetes → web & mobile clients
-- 💼 Currently owning enterprise systems at **Tyson Foods** — leading code reviews, optimizing large-scale data processing (60 min → 5 min on 600K+ row datasets), and architecting zero-downtime CI/CD pipelines
-- 🚜 Previously at **John Deere** — REST APIs in C#/.NET microservices, React micro-frontends, Kafka/GraphQL/MQTT integrations
-- 🤖 Studying **Machine Learning** with DeepLearning.AI — built an autoregressive Transformer from scratch in PyTorch with CUDA
-- 🗽 Entrepreneurship scholarship in **New York** (TrepCamp, Marymount Manhattan College)
-- ⚡ Fun fact: during the pandemic I built a contactless mask dispenser for my university
+-  I build systems **end-to-end**: embedded firmware → APIs → Kubernetes → web & mobile clients
+-  Currently owning enterprise systems at **Tyson Foods** — leading code reviews, optimizing large-scale data processing (60 min → 5 min on 600K+ row datasets), and architecting zero-downtime CI/CD pipelines
+-  Previously at **John Deere** — REST APIs in C#/.NET microservices, React micro-frontends, Kafka/GraphQL/MQTT integrations
+-  Studying **Machine Learning** with DeepLearning.AI — built an autoregressive Transformer from scratch in PyTorch with CUDA
+-  Entrepreneurship scholarship in **New York** (TrepCamp, Marymount Manhattan College)
+-  Fun fact: during the pandemic I built a contactless mask dispenser for my university
 
 ## 💼 Experience
 
@@ -26,10 +26,10 @@
 
 ## 🎓 Education & Certifications
 
-- 🎓 **B.Eng., Multiplatform Software Development** — Universidad Tecnológica de Torreón (2026)
-- 🤖 **Machine Learning / Deep Learning** — DeepLearning.AI (Andrew Ng), Coursera — *in progress*
-- 🗽 **TrepCamp Entrepreneurship Program** — New York, USA (2023)
-- 🗣️ Spanish (native) · English (professional) · French (basic)
+-  **B.Eng., Multiplatform Software Development** — Universidad Tecnológica de Torreón (2026)
+-  **Machine Learning / Deep Learning** — DeepLearning.AI (Andrew Ng), Coursera — *in progress*
+-  **TrepCamp Entrepreneurship Program** — New York, USA (2023)
+-  Spanish (native) · English (professional) · French (basic)
 
 ## 🛠️ Tech Stack
 
